@@ -61,7 +61,7 @@
             {
                 case 'x': case 'X': Menu(); break;
                 case 'q': case 'Q': System.Environment.Exit(0); break;
-                default: System.Console.WriteLine("Opção inválida!"); break;
+                default: Console.Clear(); System.Console.WriteLine("Opção inválida! Retornando a página anterior.\n"); System.Console.WriteLine("Invalid option! Returning to the previous page."); Thread.Sleep(2000); HowToUse(); break;
             }
         }
     }
