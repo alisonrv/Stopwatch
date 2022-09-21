@@ -1,0 +1,15 @@
+/home/alison/Projetos/Stopwatch/bin/Debug/net6.0/Stopwatch
+/home/alison/Projetos/Stopwatch/bin/Debug/net6.0/Stopwatch.deps.json
+/home/alison/Projetos/Stopwatch/bin/Debug/net6.0/Stopwatch.runtimeconfig.json
+/home/alison/Projetos/Stopwatch/bin/Debug/net6.0/Stopwatch.dll
+/home/alison/Projetos/Stopwatch/bin/Debug/net6.0/ref/Stopwatch.dll
+/home/alison/Projetos/Stopwatch/bin/Debug/net6.0/Stopwatch.pdb
+/home/alison/Projetos/Stopwatch/obj/Debug/net6.0/Stopwatch.csproj.AssemblyReference.cache
+/home/alison/Projetos/Stopwatch/obj/Debug/net6.0/Stopwatch.GeneratedMSBuildEditorConfig.editorconfig
+/home/alison/Projetos/Stopwatch/obj/Debug/net6.0/Stopwatch.AssemblyInfoInputs.cache
+/home/alison/Projetos/Stopwatch/obj/Debug/net6.0/Stopwatch.AssemblyInfo.cs
+/home/alison/Projetos/Stopwatch/obj/Debug/net6.0/Stopwatch.csproj.CoreCompileInputs.cache
+/home/alison/Projetos/Stopwatch/obj/Debug/net6.0/Stopwatch.dll
+/home/alison/Projetos/Stopwatch/obj/Debug/net6.0/ref/Stopwatch.dll
+/home/alison/Projetos/Stopwatch/obj/Debug/net6.0/Stopwatch.pdb
+/home/alison/Projetos/Stopwatch/obj/Debug/net6.0/Stopwatch.genruntimeconfig.cache
